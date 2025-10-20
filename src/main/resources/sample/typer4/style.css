@@ -1,0 +1,19 @@
+/* Default button style */
+#playGameButton {
+    -fx-background-color: #185adb;
+    -fx-text-fill: #ffc947;
+    -fx-border-color: transparent;
+    -fx-border-width: 2;
+    -fx-background-radius: 15;
+    -fx-background-radius: 15;
+    -fx-cursor: hand;
+}
+
+#playGameButton:hover{
+    -fx-background-color: #1a6fda;
+    -fx-text-fill:white;
+    -fx-border-color: #ffc947;
+    -fx-scale-x: 1.1;
+    -fx-scale-y: 1.1;
+
+}
