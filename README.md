@@ -60,5 +60,32 @@ Typing-Speed-Analyzer/
 ### Typing Session Interface — Real-Time Accuracy, WPM & Timer Display
  <img width="300" height="400" alt="Screenshot 2025-11-25 at 2 08 24 PM" src="https://github.com/user-attachments/assets/1bf6db0c-21e0-45f3-89ce-c1cbb21a4ae4" />
 
+ ## 📦 Dependencies
+- Java 21
+- JavaFX 21
+- Maven
+- ControlsFX
+- Apache Commons Lang
+
+## 📚 Concepts Used
+- JavaFX GUI development (FXML + CSS)
+- MVC-style controller organization
+- File I/O (saving user typing data)
+- Resource management (images, styles)
+- OOP: encapsulation, abstraction, classes & interfaces
+- Data parsing + string processing
+
+  ## 📌 Detailed Features
+- Real-time typing speed calculation (WPM)
+- Accuracy analysis with per-character validation
+- Randomized word generation from custom dataset
+- Popup summary window after each test
+- Saves user typing sessions with timestamps
+- Clean JavaFX UI with custom styling
+
+  ## 👤 Author
+**Ismoil Aknazarov**  
+GitHub: https://github.com/Isik11  
+
 
 
