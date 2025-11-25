@@ -21,3 +21,32 @@ A JavaFX desktop app that measures typing speed (WPM) and accuracy with a clean 
 ---
 
 ## 📁 Project Structure
+Typing-Speed-Analyzer/
+│
+├── src/
+│   └── main/
+│       ├── java/
+│       │   ├── data/
+│       │   │   └── *.txt              # Saved typing session results
+│       │   └── sample/typer4/
+│       │       ├── Controller.java
+│       │       ├── FileHandling.java
+│       │       ├── GameController.java
+│       │       ├── Main.java          # Application entry point
+│       │       └── PopUpController.java
+│       │
+│       └── resources/
+│           └── sample/typer4/
+│               ├── images/
+│               │   ├── EZZ.png
+│               │   ├── Wrong.png
+│               │   └── green_double_circle_check_mark.jpg
+│               ├── game.fxml
+│               ├── popup.fxml
+│               ├── sample.fxml
+│               └── style.css
+│
+├── pom.xml                # Maven configuration
+├── README.md              # Project documentation
+├── wordsList              # Word dataset used in the typing test
+└── username.txt           # Stores user's name
