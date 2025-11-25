@@ -56,5 +56,8 @@ Typing-Speed-Analyzer/
 ## 🖼️ Screenshots
 ### 🖥️ Main Window — Real-Time Typing Metrics Dashboard
  <img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/6bf8df15-bb21-4649-a50f-bd0b8e28103c" />
+### 🧪 Typing Session Interface — Real-Time Accuracy, WPM & Timer Display
+ <img width="1134" height="874" alt="Screenshot 2025-11-25 at 2 08 24 PM" src="https://github.com/user-attachments/assets/1bf6db0c-21e0-45f3-89ce-c1cbb21a4ae4" />
+
 
 
