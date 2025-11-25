@@ -55,4 +55,6 @@ Typing-Speed-Analyzer/
 ---
 ## 🖼️ Screenshots
 
-*(Add screenshots of your UI here — Game screen, popup, etc.)*
+1. <img width="621" height="484" alt="image" src="https://github.com/user-attachments/assets/6bf8df15-bb21-4649-a50f-bd0b8e28103c" />
+
+
