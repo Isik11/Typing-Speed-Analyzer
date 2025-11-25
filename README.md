@@ -51,3 +51,8 @@ Typing-Speed-Analyzer/
 ├── README.md           # Project documentation
 ├── wordsList           # Word dataset used in typing test
 └── username.txt        # Stores user’s saved name
+
+---
+## 🖼️ Screenshots
+
+*(Add screenshots of your UI here — Game screen, popup, etc.)*
