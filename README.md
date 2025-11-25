@@ -17,3 +17,7 @@ A JavaFX desktop app that measures typing speed (WPM) and accuracy with a clean 
 - **Maven** (for dependency management)
 - **IntelliJ IDEA**
 - **ControlsFX**, **Apache Commons Lang**
+
+---
+
+## 📁 Project Structure
