@@ -54,7 +54,7 @@ Typing-Speed-Analyzer/
 
 ---
 ## 🖼️ Screenshots
-
-1. <img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/6bf8df15-bb21-4649-a50f-bd0b8e28103c" />
+### 🖥️ Main Window — Real-Time Typing Metrics Dashboard
+ <img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/6bf8df15-bb21-4649-a50f-bd0b8e28103c" />
 
 
